@@ -23,4 +23,4 @@
 <a href="https://www.mtws.posthaven.com/">MTWS Blog</a>
 <h3>Social Media Links</h3>
 <a href="https://www.youtube.com/@mtwsnc9534">MTWS YouTube Channel</a>
-<br><a href="https://twitter.com/MTWSNC">MTWS Twitter</a>
+<br><a href="https://x.com/MTWSNC">MTWS Twitter</a>
