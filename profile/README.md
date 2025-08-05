@@ -14,10 +14,10 @@
 <!-- mtws.one/dawah - Dawah Website -->
 <!-- mtws.posthaven.com - Blog -->
 <!-- MTWS Youtube Channel - https://www.youtube.com/@mtwsnc9534 -->
-<a href="https://www.mtws.org/">Markaz Tawheed Wa Sunnah (MTWS)</a>
+<a href="https://www.mtws.one/">Markaz Tawheed Wa Sunnah (MTWS)</a>
 <br>
-<a href="https://www.mtws.one/">MTWS Information Website</a>
-<br>
+<!-- <a href="https://www.mtws.one/">MTWS Information Website</a>
+<br> -->
 <a href="https://www.mtws.one/dawah">MTWS Dawah Website</a>
 <br>
 <a href="https://www.mtws.posthaven.com/">MTWS Blog</a>
