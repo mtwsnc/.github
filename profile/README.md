@@ -2,7 +2,7 @@
 
 <h1 align="center">Markaz Tawheed was-Sunnah</h1>
 
-<p>By the permission of Allah, since 2002 <a href="https://www.mtws.org/">Markaz Tawheed Wa Sunnah (MTWS)</a> has established the <b>Da'wah</b> of Islam in our City of Durham, North Carolina, and the surrounding community.</p>
+<p>By the permission of Allah, since 2002 <a href="https://www.mtws.one/">Markaz Tawheed Wa Sunnah (MTWS)</a> has established the <b>Da'wah</b> of Islam in our City of Durham, North Carolina, and the surrounding community.</p>
 
 <p>Our <strong>Masjid</strong> is located in the <b>Research Triangle Park (RTP)</b> which is the largest research park in the United States. It is named for the three hub cities of Raleigh, Durham, and Chapel Hill, or more properly, for the three major research universities in those three cities North Carolina State University, Duke University, and the University of North Carolina at Chapel Hill, respectively.</p>
 
